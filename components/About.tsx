@@ -2,7 +2,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="bg-slate-50 py-24"
+      className="bg-slate-50 min-h-screen py-24"
     >
       <div className="max-w-6xl mx-auto px-6">
 
