@@ -70,7 +70,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/24110203_Madhura_Resume.pdf"
             className="flex items-center gap-4 rounded-xl border p-5 hover:shadow-md transition"
           >
             <FileText className="text-blue-600" size={24} />
