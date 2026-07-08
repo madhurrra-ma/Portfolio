@@ -92,7 +92,7 @@ export default function Hero() {
             <div className="relative w-[380px] h-[500px] rounded-3xl overflow-hidden border border-slate-200 shadow-xl">
 
               <Image
-                src="/profile1.jpeg"
+                src="/profile4.jpeg"
                 alt="Madhura Melgiri"
                 fill
                 className="object-cover object-top"
