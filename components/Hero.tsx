@@ -55,7 +55,7 @@ export default function Hero() {
             <div className="mt-10 flex flex-wrap gap-4">
 
               <a
-                href="/24110203_Madhura_Resume.pdf"
+                href="/24110203_Madhura__Resume.pdf"
                 className="flex items-center gap-2 rounded-xl bg-blue-600 px-6 py-3 font-medium text-white transition-all duration-300 hover:-translate-y-1 hover:bg-blue-700"
               >
                 <Download size={18} />
